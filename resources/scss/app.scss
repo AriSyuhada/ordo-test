@@ -529,9 +529,8 @@ nav {
   .contact-layout:first-of-type {
     display: flex;
     flex-direction: row;
-    justify-content: end;
+    justify-content: center;
     align-items: center;
-    margin-right: 55px;
     .contact-content { 
       display: flex;
       flex-direction: column;
@@ -567,7 +566,7 @@ nav {
     flex-direction: row;
     justify-content: start;
     align-items: center;
-    margin-left: 5px;
+    margin-left: 25px;
     .contact-card {
       display: flex;
       flex-direction: column;
